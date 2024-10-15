@@ -1,2 +1,5 @@
-1. Host a Website on amazon S3
-2. Amazon QuickSight to visualise Netflix's catalogue trends
+- Host a Website on Amazon S3
+- Visualize data with Quick Sight
+- Cloud Security with AWS IAM
+- Aurora Database with EC2 project for web application data Storage
+- Visualize a Relational Database
